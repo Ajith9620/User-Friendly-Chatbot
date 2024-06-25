@@ -28,7 +28,7 @@
 
 ## Usage
 
-1. **Text Input**: Type your question in the input box and press enter or click the search icon. The chatbot will display and speak the answer.
+1. **Text Input**: Type your question in the input box and press enter or click the send icon. The chatbot will display and speak the answer.
 2. **Voice Input**: Click the microphone icon to start voice input. Speak your question and the chatbot will convert it to text, process the query, and provide an audible response.
 3. **Stop Voice Input**: Click the stop icon to stop listening.
 4. **Trigger Phrases**: Say "Hey chatbot", "Hello chatbot", or "Hi chatbot" to activate voice input without clicking the microphone icon.
