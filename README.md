@@ -37,7 +37,7 @@
 
 ## Customization
 
-You can customize the chatbot's responses by editing the `qa.json` file. Each entry should have a `question`, `answer`, and `keyword` to identify the relevant queries.
+You can customize the chatbot's responses by editing the `questions.json` file. Each entry should have a `question in form of keyword`, `answer`, and `keyword` to identify the relevant queries.
 
 Example `questions.json` format:
 
